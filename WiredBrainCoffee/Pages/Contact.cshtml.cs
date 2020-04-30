@@ -31,5 +31,12 @@ namespace WiredBrainCoffee.Pages
             }
         }
 
+        public void OnPostSubscribe(string address)
+        {
+            EmailService.SendEmail(Contact);
+            Message = "Added to emailing list";
+        }
+
+
     }
 }
