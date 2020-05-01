@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Routing;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -27,6 +28,11 @@ namespace WiredBrainCoffee
                 option.Conventions.AddPageRoute("/index", "Wired");
             });
 
+            //adding custom routeconstraint defined in PromoConstraint.cs and applied to Feedback page route. 
+            services.Configure<RouteOptions>( options =>
+            {
+                options.ConstraintMap.Add("promo",typeof(PromoConstraint));
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
