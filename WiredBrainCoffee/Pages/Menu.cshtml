@@ -24,7 +24,8 @@
                         <p class="card-text">@menuItem.Description</p>
                     </div>
                     <div class="card-footer">
-                        <a asp-page="item" asp-route-id="@menuItem.Id" class="btn btn-success w-100">Details & Nutrition</a>
+                        @*<a asp-page="item" asp-route-id="@menuItem.Id" class="btn btn-success w-100">Details & Nutrition</a>*@
+                        <a asp-page="item" asp-route-slug="@menuItem.Slug" class="btn btn-success w-100">Details & Nutrition</a>
                     </div>
                 </div>
             </div>
