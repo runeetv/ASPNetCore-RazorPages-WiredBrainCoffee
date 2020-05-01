@@ -82,7 +82,8 @@
             @Html.Partial("MobileWidget", "Download app.") <!-- old method -->
         </div>
         <div class="col-md-4">
-           @await Component.InvokeAsync("PopularBrews", new { count = 2})
+            @*@await Component.InvokeAsync("PopularBrews", new { count = 2})*@  <!-- this is older way of calling view components -->
+            <vc:popular-brews count="2"></vc:popular-brews> <!-- this is the new way of calling view components -->
         </div>
 
         <div class="col-md-4">
