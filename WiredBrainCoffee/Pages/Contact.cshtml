@@ -59,7 +59,6 @@
             <div>
                 <h3>Keep in Touch</h3>
                 <p>Sign up for our mailing list - no spam, we promise.</p>
-                
                 <form asp-page-handler="Subscribe">
                     <div class="control-group form-group">
                         <input name="address" type="text" class="form-control" placeholder="Email" />
@@ -68,8 +67,10 @@
                         <input type="submit" class="btn btn-success" value="Join" />
                     </div>
                 </form>
-
             </div>
+            <hr />
+            @*<partial name="MobileWidget" model="@("Get the mobile app.")"></partial>*@ <!-- Needd .net core 2.1 or above-->
+            @Html.Partial("MobileWidget", "Get the app.") <!-- old method -->
             <hr />
             <div>
                 <h3>Contact Details</h3>

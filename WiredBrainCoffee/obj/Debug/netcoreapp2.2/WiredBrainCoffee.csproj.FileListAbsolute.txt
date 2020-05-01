@@ -1,0 +1,16 @@
+C:\Shavy\Learn\DotNet\AWSRazorPages\WiredBrainCoffee\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Shavy\Learn\DotNet\AWSRazorPages\WiredBrainCoffee\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Shavy\Learn\DotNet\AWSRazorPages\WiredBrainCoffee\bin\Debug\netcoreapp2.2\bundleconfig.json
+C:\Shavy\Learn\DotNet\AWSRazorPages\WiredBrainCoffee\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Shavy\Learn\DotNet\AWSRazorPages\WiredBrainCoffee\bin\Debug\netcoreapp2.2\WiredBrainCoffee.deps.json
+C:\Shavy\Learn\DotNet\AWSRazorPages\WiredBrainCoffee\bin\Debug\netcoreapp2.2\WiredBrainCoffee.runtimeconfig.json
+C:\Shavy\Learn\DotNet\AWSRazorPages\WiredBrainCoffee\bin\Debug\netcoreapp2.2\WiredBrainCoffee.runtimeconfig.dev.json
+C:\Shavy\Learn\DotNet\AWSRazorPages\WiredBrainCoffee\bin\Debug\netcoreapp2.2\WiredBrainCoffee.dll
+C:\Shavy\Learn\DotNet\AWSRazorPages\WiredBrainCoffee\bin\Debug\netcoreapp2.2\WiredBrainCoffee.pdb
+C:\Shavy\Learn\DotNet\AWSRazorPages\WiredBrainCoffee\obj\Debug\netcoreapp2.2\WiredBrainCoffee.csprojAssemblyReference.cache
+C:\Shavy\Learn\DotNet\AWSRazorPages\WiredBrainCoffee\obj\Debug\netcoreapp2.2\WiredBrainCoffee.csproj.CoreCompileInputs.cache
+C:\Shavy\Learn\DotNet\AWSRazorPages\WiredBrainCoffee\obj\Debug\netcoreapp2.2\WiredBrainCoffee.AssemblyInfoInputs.cache
+C:\Shavy\Learn\DotNet\AWSRazorPages\WiredBrainCoffee\obj\Debug\netcoreapp2.2\WiredBrainCoffee.AssemblyInfo.cs
+C:\Shavy\Learn\DotNet\AWSRazorPages\WiredBrainCoffee\obj\Debug\netcoreapp2.2\WiredBrainCoffee.dll
+C:\Shavy\Learn\DotNet\AWSRazorPages\WiredBrainCoffee\obj\Debug\netcoreapp2.2\WiredBrainCoffee.pdb
+C:\Shavy\Learn\DotNet\AWSRazorPages\WiredBrainCoffee\obj\Debug\netcoreapp2.2\WiredBrainCoffee.genruntimeconfig.cache
