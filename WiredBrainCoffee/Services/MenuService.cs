@@ -69,7 +69,7 @@ namespace WiredBrainCoffee.Services
             };
         }
 
-        internal List<MenuItem> GetPopularItems()
+        public List<MenuItem> GetPopularItems()
         {
             return new List<MenuItem>()
             {
